@@ -7,3 +7,6 @@
 
 QT计算器项目详细的讲解如下：
 http://blog.csdn.net/weixin_39788534/article/details/79586181
+
+QT布尔树项目详细的讲解如下：
+http://blog.csdn.net/weixin_39788534/article/details/79586633
